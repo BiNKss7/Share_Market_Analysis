@@ -47,6 +47,4 @@ This project analyzes historical data from the S&P 500 index to identify trends,
 
 This project reflects my passion for data analytics and financial markets. I welcome any feedback or collaboration opportunities to improve and expand this analysis.
 
----
-
 Feel free to contact me for more details or collaboration opportunities!
